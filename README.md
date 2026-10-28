@@ -7,27 +7,26 @@
 </div>
 
 ### Обо мне :
-Имею техническое образование в области IT и более 10 лет опыта работы с данными в корпоративной среде. Работала с большими объёмами данных в закупках, занималась их анализом и интерпретацией для принятия бизнес-решений. 
+Имею высшее техническое образование в сфере IT и опыт работы с данными в корпоративной среде. В закупках анализировала цены, объёмы и данные поставщиков, готовила аналитические материалы для обоснования бизнес-решений.
 
-Перешла в машинное обучение, чтобы расширить аналитический инструментарий и автоматизировать работу с данными. Фокусируюсь на практическом применении моделей: от подготовки данных и построения признаков до разработки сервисов и оценки качества решений.
+Целенаправленно развиваюсь в аналитике данных. Работаю с SQL и Python: подготавливаю и обрабатываю данные, исследую закономерности, применяю методы математической статистики, проверяю гипотезы и визуализирую результаты.
 
-В ML акцентируюсь на глубоком понимании задачи: структурирую данные, выявляю закономерности и причинно-следственные связи, довожу решения до результата. Интерес к психологии помогает лучше понимать поведение и мотивацию людей и учитывать это при работе с данными и моделями. :rocket:
+В проектах анализирую данные с учётом бизнес-задачи, проверяю обоснованность выводов и формулирую результаты так, чтобы они помогали принимать решения. :rocket:
 <hr>
 
 ### 🛠️ Языки и инструменты : 
 <div>
+  <img src="https://img.shields.io/badge/SQL-white?logo=SQL&logoColor=black&style=for-the-badge" title="SQL" alt="SQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib&logoColor=black&style=for-the-badge" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/SciPy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-white?logo=FastAPI&logoColor=black&style=for-the-badge" title="FastAPI" alt="FastAPI" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch&logoColor=black&style=for-the-badge" title="PyTorch" alt="PyTorch" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=black" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-white?logo=SQL&logoColor=black&style=for-the-badge" title="SQL" alt="SQL" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Machine_learning-white?logo=Machine_learning&logoColor=black&style=for-the-badge" title="Machine_learning" alt="Machine_learning" height="40"/>&nbsp;
 </div>
 <hr>
 
